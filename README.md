@@ -1,6 +1,6 @@
 # Diabetes Predictor
 
-A simple full-stack application that provides diabetes risk predictions using a machine learning model (xgb, RandomSearch) trained off PIPA data using input features (insulin, bmi, age, etc.).
+A simple full-stack application that provides diabetes risk predictions using a machine learning model (xgb, RandomSearch) trained off Pima data using input features (insulin, bmi, age, etc.).
 
 ---
 
