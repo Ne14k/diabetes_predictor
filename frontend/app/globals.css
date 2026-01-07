@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+:root {
+  --medical-blue: #003d82;
+  --medical-blue-dark: #002952;
+}
